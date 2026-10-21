@@ -2,6 +2,8 @@
 
 ### 👨‍💻 Técnico en Sistemas Microinformáticos y Redes (SMR)
 Me apasiona el despliegue de infraestructuras de red, la administración de sistemas, el soporte técnico y el desarrollo de soluciones web funcionales. Me enfoco en optimizar recursos tecnológicos y garantizar la seguridad y estabilidad de los entornos IT.
+
+
 <img width="1024" height="1024" alt="image_252daff1" src="https://github.com/user-attachments/assets/c811e4f5-eb60-4fab-bb25-564293abf587" />
 
 ---
