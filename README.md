@@ -16,7 +16,7 @@ Me apasiona el despliegue de infraestructuras de red, la administración de sist
 *   🛡️ **Seguridad:** Copias de seguridad, auditorías básicas de seguridad y securización de sistemas.
 
 **Desarrollo Web (Frontend)**
-*   💻 **Lenguajes:** HTML5 | CSS3 | JavaScript (ES6+)
+*   💻 **Lenguajes:** HTML5 | CSS
 *   🎨 **Enfoque:** Diseño responsive, optimización de interfaz de usuario (UI) y recreación de entornos interactivos modernos.
 
 ---
@@ -32,9 +32,9 @@ Me apasiona el despliegue de infraestructuras de red, la administración de sist
 
 ### 📫 Contacto y Enlaces
 
-*   💼 **LinkedIn:** [Tu Perfil de LinkedIn](https://linkedin.com) *(Reemplaza con tu enlace)*
-*   📧 **Email:** tu.correo@email.com *(Reemplaza con tu correo)*
-*   📍 **Ubicación:** Granada, España
+*   💼 **LinkedIn:** [[Tu Perfil de LinkedIn](https://linkedin.com)](https://www.linkedin.com/in/jes%C3%BAs-arjona-fuentes-955853301?utm_source=share_via&utm_content=profile&utm_medium=member_ios) 
+*   📧 **Email:** jesusarjona102@gmail.com
+*   📍 **Ubicación:** Archidona,Málaga,España.
 
 ---
 
